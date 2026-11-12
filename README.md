@@ -296,7 +296,8 @@ Areas of study include:
 - Information Security
 - Cryptography
 - Security Architecture
-
+- Digital forensics
+- Application security 
 ---
 
 # 📈 Career Direction

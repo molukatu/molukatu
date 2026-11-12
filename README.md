@@ -293,11 +293,9 @@ Areas of study include:
 - Cybersecurity
 - Networking
 - Operating Systems
-- Digital Forensics
 - Information Security
 - Cryptography
 - Security Architecture
-- Ethical Hacking
 
 ---
 
